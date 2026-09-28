@@ -21,8 +21,9 @@
     <b>Nature Skills 网页版：内置 Nature Polishing（论文润色）与 Nature Figure（科研绘图）核心功能，访问地址 <a href="https://natureskills.cn">https://natureskills.cn</a></b>
   </p>
   <a href="https://natureskills.cn">
-    <img width="2559" height="1527" alt="Nature Skills 网页版预览" src="https://github.com/user-attachments/assets/97017897-0af1-4e86-b843-74e6ce2ad3d3" />
+    <img width="2559" height="1527" alt="Nature Skills 网页版预览" src="https://github.com/user-attachments/assets/d57703ab-7ccb-4652-8810-8af1bb032032" />
   </a>
+
 </div>
 
 
